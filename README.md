@@ -1,2 +1,2 @@
-# LarisCode
-Exercícios do curso da IBM (Coursera)
+Analisando
+Editando arquivo readme
